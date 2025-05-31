@@ -14,8 +14,8 @@ A modern and responsive landing page for a VR code build tool, developed using *
 
 - **React** – UI library
 - **Tailwind CSS** – Utility-first CSS framework
-- **Vite / CRA** – (Specify which you are using)
-- **Deployment** – Netlify / Vercel / GitHub Pages
+- **Vite**
+- **Deployment** – Vercel
 
 ## 🧩 Features
 
